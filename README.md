@@ -483,7 +483,7 @@ If you're using devise, there is a built in auth helper that will detect the pre
 Create a `perf.rake` file at your root.
 
 ```
-$ cat perf.rake
+$ touch perf.rake
 ```
 
 If you want you can customize the user that is logged in by setting that value in your `perf.rake` file.
